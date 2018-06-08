@@ -1,2 +1,2 @@
 # hello-world
-this repository stores my ideas, resources and enables me to share with others
+i love programming, as they say "programming is fun". it makes me not to sleep off at any time.
